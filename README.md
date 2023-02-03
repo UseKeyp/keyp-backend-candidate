@@ -14,9 +14,9 @@ Skills required:
 ## Phase 1 - Tests
 
 - [ ] Clone (Do not fork) this repo to a private repo. Your work is precious, don’t let others cheat.
-- [ ] Set up Earthly to run yarn test
-- [ ] Create a Github action ci-earthly.yml that runs the earthly command above for all Pull Requests
-- [ ] Make a new Pull Request against master to demonstrate that Earthly is run successfully in Github Actions.
+- [ ] Set up Earthly to run `yarn test`
+- [ ] Create a Github action `ci-earthly.yml` that runs the earthly command above for all Pull Requests
+- [ ] Make a new Pull Request against `main` to demonstrate that Earthly is run successfully in Github Actions.
 
 ## Phase 2 - Container Creation
 
