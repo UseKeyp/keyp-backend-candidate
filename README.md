@@ -1,8 +1,9 @@
 # BE Coding Exercise - Earthly
 
-Earthly https://earthly.dev/ is a great tool for improving developer experience across teams. We currently use it in our devops pipeline to enable CI/CD testing in any environment. This means we (usually) get the same results on any machine- local or hosted. Its pretty straightforward to learn and use, and it can be be very powerful and flexible. By completing this exercise you will gain a working knowledge of a new open-source DevOps tool.
+[Earthly](https://earthly.dev/) is a great tool for improving developer experience across teams. We currently use it in our devops pipeline to enable CI/CD testing in any environment. This means we (usually) get the same results on any machine- local or hosted. Its pretty straightforward to learn and use, and it can be be very powerful and flexible. By completing this exercise you will gain a working knowledge of a new open-source DevOps tool.
 
 Estimated time: 1-2 hours
+
 Skills required:
 
 - Continuous integration, testing, and DevOps
