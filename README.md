@@ -5,14 +5,14 @@ Earthly https://earthly.dev/ is a great tool for improving developer experience 
 Estimated time: 1-2 hours
 Skills required:
 
-Continuous integration, testing, and DevOps
-Docker
-Learning a new language (don’t worry- its just a combination of languages you already know)
-There are 3 incremental phases. Please make a separate branch or commit for each phase, so we can review and run each separately.
+- Continuous integration, testing, and DevOps
+- Docker
+- Learning a new language (don’t worry- its just a combination of languages you already know)
+- There are 3 incremental phases. Please make a separate branch or commit for each phase, so we can review and run each separately.
 
 ## Phase 1 - Tests
 
-- [ ] Clone (Do not fork) the repo https://github.com/Nifty-Chess/my-earthly-example to a private repo. Your work is precious, don’t let others cheat.
+- [ ] Clone (Do not fork) this repo to a private repo. Your work is precious, don’t let others cheat.
       Set up Earthly to run yarn test
 - [ ] Create a Github action ci-earthly.yml that runs the earthly command above for all Pull Requests
 - [ ] Make a new Pull Request against master to demonstrate that Earthly is run successfully in Github Actions.
